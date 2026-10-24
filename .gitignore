@@ -1,0 +1,9 @@
+node_modules/
+data/
+wallets/
+*.pem
+*.key
+.DS_Store
+report/qa/
+report/qa*/
+report/*.zip
